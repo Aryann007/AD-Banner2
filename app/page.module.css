@@ -1,0 +1,50 @@
+.container {
+  max-width: 1430px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+  
+  color: #042631;
+  font-size: 2em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.bannerGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+  gap: 30px;
+  padding: 20px;
+}
+
+.bannerWrapper {
+  transition: transform 0.2s ease;
+}
+
+.bannerWrapper:hover {
+  transform: scale(1.07);
+}
+
+@media (max-width: 1200px) {
+  .container {
+    padding: 15px; 
+  }
+}
+
+@media (max-width: 992px) {
+  .container {
+    padding: 10px; 
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 5px;
+  }
+  .bannerGrid {
+    grid-template-columns: 1fr; 
+  }
+}

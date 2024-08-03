@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Get High Quality Leads",
+    "description": "Harness AI",
+    "cta": "Learn More",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e",
+    "background": "https://example.com/yellow-background.jpg",
+    "imageAttribution": "Photo by Xu Haiwei on Unsplash"
+  },
+  {
+    "id": 2,
+    "title": "Boost Your Marketing",
+    "description": "Data-Driven Strategies",
+    "cta": "Get Started",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+    "background": "https://example.com/blue-background.jpg",
+    "imageAttribution": "Photo by Campaign Creators on Unsplash"
+  },
+  {
+    "id": 3,
+    "title": "Optimize Conversions",
+    "description": "Enhance with AI",
+    "cta": "Discover How",
+    "image": "https://images.unsplash.com/photo-1533750349088-cd871a92f312",
+    "background": "https://example.com/green-background.jpg",
+    "imageAttribution": "Photo by Stephen Dawson on Unsplash"
+  },
+  {
+    "id":7,
+    "title": "Social Media Mastery",
+    "description": "Dominate Platforms",
+    "cta": "Start Now",
+    "image": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e",
+    "background": "https://example.com/purple-background.jpg",
+    "imageAttribution": "Photo by Claudio Schwarz on Unsplash"
+  },
+  {
+    "id": 5,
+    "title": "Email Campaign Excellence",
+    "description": "Craft Irresistible",
+    "cta": "Elevate Your Emails",
+    "image": "https://images.unsplash.com/photo-1596526131083-e8c633c948d2",
+    "background": "https://example.com/orange-background.jpg",
+    "imageAttribution": "Photo by Solen Feyissa on Unsplash"
+  },
+  {
+    "id": 6,
+    "title": "Content Creation Revolution",
+    "description": "AI-Powered Blogs",
+    "cta": "Transform Your Content",
+    "image": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e",
+    "background": "https://example.com/teal-background.jpg",
+    "imageAttribution": "Photo by Andrew Neel on Unsplash"
+  },
+  {
+    "id": 4,
+    "title": "SEO Optimization Mastery",
+    "description": "Rank Higher",
+    "cta": "Boost Your Ranking",
+    "image": "https://images.unsplash.com/photo-1533750349088-cd871a92f312",
+    "background": "https://example.com/red-background.jpg",
+    "imageAttribution": "Photo by Jason Dent on Unsplash"
+  },
+  {
+    "id": 8,
+    "title": "E-commerce Growth Strategies",
+    "description": "Increase Sales",
+    "cta": "Learn More",
+    "image": "https://images.unsplash.com/photo-1596526131083-e8c633c948d2",
+    "background": "https://example.com/pink-background.jpg",
+    "imageAttribution": "Photo by Ian Dooley on Unsplash"
+  },
+  {
+    "id": 9,
+    "title": "Customer Engagement Tactics",
+    "description": "Connect Better",
+    "cta": "Explore Strategies",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e",
+    "background": "https://example.com/grey-background.jpg",
+    "imageAttribution": "Photo by Markus Spiske on Unsplash"
+  },
+  {
+    "id": 10,
+    "title": "Mobile App Development",
+    "description": "Innovate Your Mobile Experience",
+    "cta": "Start Building",
+    "image": "https://images.unsplash.com/photo-1533750349088-cd871a92f312",
+    "background": "https://example.com/blue-background2.jpg",
+    "imageAttribution": "Photo by William Iven on Unsplash"
+  },
+  {
+    "id": 11,
+    "title": "Video Marketing Success",
+    "description": "Engage with Video",
+    "cta": "Get Started",
+    "image": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e",
+    "background": "https://example.com/black-background.jpg",
+    "imageAttribution": "Photo by Kevin Lasky on Unsplash"
+  },
+  {
+    "id": 12,
+    "title": "Digital Advertising Trends",
+    "description": "Stay Ahead",
+    "cta": "Discover Trends",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+    "background": "https://example.com/brown-background.jpg",
+    "imageAttribution": "Photo by Jason Leung on Unsplash"
+  }
+]
